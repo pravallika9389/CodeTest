@@ -1,2 +1,2 @@
-# Policy
-Insurance application
+# CodeTest
+Courses
